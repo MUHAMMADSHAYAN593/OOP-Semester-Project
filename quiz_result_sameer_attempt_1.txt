@@ -1,0 +1,22 @@
+======= Quiz Result for sameer =======
+Quiz Title: English
+Course: English
+Attempt ID: 1
+Attempt Time: 2025-06-09T14:38:20
+Total Questions: 5
+Total Marks: 5
+Your Score: 0
+--------------------------------------------------
+
+--- Question-by-Question Breakdown ---
+
+Question ID: 9
+Q: Which of the following punctuation marks is used to enclose a question?
+A) Bracket
+B) Quotation marks
+C) Parentheses
+D) Apostrophe
+Your Answer: D
+Correct Answer: B
+Result: Incorrect
+==================================================
